@@ -19,6 +19,7 @@ It essentially consists of:
 
 
 
+
 **login**: Allows you to login using an application page and manage the login phase
 
 `var oauth = new OAuth2("myrealname", "myclientid","becc2062-602d-414a-bebd-dc55e1dfda69", "urlserveroauth2", "urlmywebapplication");`
